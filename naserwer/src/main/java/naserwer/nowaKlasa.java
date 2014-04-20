@@ -3,5 +3,5 @@ package naserwer;
 public class nowaKlasa {
 
 	
-	nowy branch
+	int dupa = 4;
 }
